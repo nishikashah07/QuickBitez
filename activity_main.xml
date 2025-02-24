@@ -23,7 +23,7 @@
         android:fontFamily="sans-serif"
         android:textSize="36sp"
         android:textStyle="bold"
-        android:textColor="#AC9362"/>
+        android:textColor="#caa77c"/>
 
     <TextView
         android:id="@+id/appName"
@@ -33,7 +33,7 @@
         android:fontFamily="sans-serif-condensed"
         android:textSize="40sp"
         android:textStyle="bold"
-        android:textColor="#F7EF8A"
+        android:textColor="#caa77c"
         android:layout_marginBottom="10dp"/>
 
     <TextView
@@ -51,7 +51,7 @@
         android:layout_width="112dp"
         android:layout_height="91dp"
         android:layout_marginTop="20dp"
-        android:background="none"
+        android:background="@null"
         android:scaleType="center"
         android:src="@drawable/arrow" />
 </LinearLayout>
